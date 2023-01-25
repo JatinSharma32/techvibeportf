@@ -254,3 +254,13 @@ button {
   justify-content: space-evenly;
   align-items: center;
 }
+
+.contactPage {
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#about :hover {
+  background-color: rgb(93, 93, 93);
+  box-shadow: 0px 0px 10px rgb(93, 93, 93);
+}
